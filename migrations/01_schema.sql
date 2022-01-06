@@ -9,7 +9,7 @@
 
 DROP TABLE IF EXISTS your_table_name_here CASCADE;
 
-MOST DEPENDENT drops FIRST
+MOST dependent drops FIRST
 LEAST dependent drops LAST
 */
 
